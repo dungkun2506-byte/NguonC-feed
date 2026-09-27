@@ -1,0 +1,8 @@
+{
+  "name": "NguonC",
+  "description": "Extension NguonC cho CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/dungkun2506-byte/NguonC-feed/builds/plugins.json"
+  ]
+}
