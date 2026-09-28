@@ -1,0 +1,24 @@
+[
+    {
+        "jarFileSize": 125904,
+        "fileHash": "sha256-cfda8e8f49adb369c5a6a6af394d8e24827cac3c06add3bad09970e75323f67b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dungkun2506-byte/NguonC-feed",
+        "fileSize": 29725,
+        "status": 3,
+        "authors": [
+            "Nguyen Hung Dung"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "NguonC",
+        "jarUrl": "https://raw.githubusercontent.com/dungkun2506-byte/NguonC-feed/builds/NguonC.jar",
+        "description": "NguonC CloudStream Extension",
+        "url": "https://raw.githubusercontent.com/dungkun2506-byte/NguonC-feed/builds/NguonC.cs3",
+        "name": "NguonC",
+        "jarHash": "sha256-7945daec1b681e6f447377761b1e5ceb40ac1fcac69c5a3fca8d44a8d8d6470e"
+    }
+]
